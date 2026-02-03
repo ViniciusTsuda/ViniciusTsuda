@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Junior Software Developer   
+## I'm a Junior Software Developer from Brazil 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
@@ -11,11 +11,11 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/lcql1ukt099y9sbyugz00la21)
+&nbsp;<div align="center">
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff)](https://open.spotify.com/user/lcql1ukt099y9sbyugz00la21)
+</div>
 
 ---
 
@@ -23,11 +23,11 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://s.magecdn.com/social/tc-linkedin.svg"/>][linkedin] 
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://s.magecdn.com/social/tc-instagram.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://s.magecdn.com/social/tc-mail.svg" />][Email]
 
+<br />
 <br />
 
 ---
@@ -66,12 +66,16 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusTsuda&show_icons=true&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
     </a>
 </div
 
 <br/>
+
+
+
+[instagram]: https://www.instagram.com/bilgehangecici
+[linkedin]: https://www.linkedin.com/in/vinicius-hideki-tsuda/
+[Email]: mailto:viniciustsuda9@gmail.com
+[Spotify]: https://open.spotify.com/user/lcql1ukt099y9sbyugz00la21
 

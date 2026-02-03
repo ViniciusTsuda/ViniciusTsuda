@@ -1,9 +1,8 @@
 # Hi there, I'm Vinícius <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
+<img align="right" alt="GIF" height="140" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Junior Software Developer from Brazil 
-
-<img align="right" alt="GIF" height="136px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h2 style="display: inline-block; border-bottom: px solid #ffffff;">I'm a Junior Software Developer from Brazil</h2> 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅

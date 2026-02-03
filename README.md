@@ -25,11 +25,13 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ViniciusTsuda&repo=ViniciusTsuda&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+## 📫 Connect with me!
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://s.magecdn.com/social/tc-linkedin.svg"/>][linkedin] 
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://s.magecdn.com/social/tc-instagram.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://s.magecdn.com/social/tc-mail.svg" />][Email]
+<p align="center">
+  <a href="https://www.instagram.com/vinicius_tsuda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:viniciustsuda9@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/vinicius-hideki-tsuda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 <br />
 <br />

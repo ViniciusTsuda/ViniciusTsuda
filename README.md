@@ -37,9 +37,6 @@
   <b>Discord:</b> ultimakaibutsu
 </p>
 
-<br />
-<br />
-
 ---
 
 ### Languages and Tools 🛠 

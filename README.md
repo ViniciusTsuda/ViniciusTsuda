@@ -75,13 +75,3 @@
 
 <br/>
 
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
-[website]: Em breve
-[instagram]: https://www.instagram.com/bilgehangecici](https://www.instagram.com/vinicius_tsuda/
-[linkedin]: https://www.linkedin.com/in/vinicius-hideki-tsuda/
-[Spotify]: https://open.spotify.com/user/lcql1ukt099y9sbyugz00la21

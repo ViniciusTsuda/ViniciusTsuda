@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="140" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h2 style="display: inline-block; border-bottom: 1px solid #ffffff;">I'm a Junior Software Developer from Brazil</h2> 
+<h2>I'm a Junior Software Developer from Brazil</h2> 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅

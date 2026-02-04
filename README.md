@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <b>Discord:</b> ultimakaibutsu
+  <b>Discord:</b> tsudau
 </p>
 
 ---
